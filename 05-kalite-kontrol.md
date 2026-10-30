@@ -31,4 +31,4 @@ Temiz çalıştırma: `data/` altındaki üretilmiş dosyalar (`ai_usage_clean.c
 
 ## Açık kalanlar
 - [x] Repo: https://github.com/ibrahimbinbuga/ai-usage-data
-- [ ] Notebook çıktıları gömülü görseller yüzünden ~840 KB; repoya koymadan önce çıktıları temizlemek isteyip istemediğine karar ver
+- [x] Notebook çıktıları (~840 KB, gömülü görseller) bilerek repoda tutuldu; GitHub üzerinde çalıştırmadan okunabilsin diye (İbrahim, 2026-10-30)
